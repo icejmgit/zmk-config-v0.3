@@ -1,0 +1,6 @@
+if SHIELD_TESTJMR
+
+config ZMK_KEYBOARD_NAME
+    default "testjmr"
+
+endif # SHIELD_TESTJMR

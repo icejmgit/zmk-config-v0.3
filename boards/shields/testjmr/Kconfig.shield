@@ -1,0 +1,2 @@
+config SHIELD_TESTJMR
+    def_bool $(shields_list_contains,testjmr)
